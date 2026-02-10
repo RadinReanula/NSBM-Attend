@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Replace with your own banner image -->
-<!-- <img src="assets/banner.png" alt="NSBM ATTEND Banner" width="100%"> -->
-
+<img width="625" height="399" alt="Gemini_Generated_Image_ri752vri752vri755-removebg-preview" src="https://github.com/user-attachments/assets/abd58387-1663-41f9-9bb5-1b1019036ad2" />
 # 📱 NSBM ATTEND
 
 ### Smart QR Attendance for NSBM Green University
@@ -25,15 +23,15 @@
 
 <div align="center">
 
-<!-- Add your screenshots here -->
-<!-- Example layout: -->
+<img src="https://github.com/user-attachments/assets/251592e8-c306-47b9-b1ee-a3f020886ad4" width="200"> &nbsp;/>
+
 <!-- <img src="assets/screenshots/home.png" width="200"> &nbsp; -->
 <!-- <img src="assets/screenshots/scanner.png" width="200"> &nbsp; -->
 <!-- <img src="assets/screenshots/settings.png" width="200"> -->
 
 | Home Dashboard | QR Scanner | Settings |
 |:-:|:-:|:-:|
-| *Screenshot coming soon* | *Screenshot coming soon* | *Screenshot coming soon* |
+|  | *Screenshot coming soon* | *Screenshot coming soon* |
 
 | Dark Mode | Onboarding | Credits |
 |:-:|:-:|:-:|
