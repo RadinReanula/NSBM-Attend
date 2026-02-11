@@ -248,7 +248,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Made with ❤️ for NSBM Green University**
+**Made with ❤️ for NSBM Green University by Radin Reanula**
 
 *⚠️ This repository contains the showcase documentation only. Source code is private.*
 
