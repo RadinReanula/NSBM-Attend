@@ -1,6 +1,7 @@
 <div align="center">
 
 <img width="625" height="399" alt="Gemini_Generated_Image_ri752vri752vri755-removebg-preview" src="https://github.com/user-attachments/assets/abd58387-1663-41f9-9bb5-1b1019036ad2" />
+
 # 📱 NSBM ATTEND
 
 ### Smart QR Attendance for NSBM Green University
