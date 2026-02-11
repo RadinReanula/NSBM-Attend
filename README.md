@@ -21,23 +21,19 @@
 
 ---
 
-## 📸 Screenshots
-
 <div align="center">
-
-<!-- Add your screenshots here -->
-<!-- Example layout: -->
-<!-- <img src="assets/screenshots/home.png" width="200"> &nbsp; -->
-<!-- <img src="assets/screenshots/scanner.png" width="200"> &nbsp; -->
-<!-- <img src="assets/screenshots/settings.png" width="200"> -->
 
 | Home Dashboard | QR Scanner | Settings |
 |:-:|:-:|:-:|
-| *Screenshot coming soon* | *Screenshot coming soon* | *Screenshot coming soon* |
+| <img src="img_source/home_dashboard.png" width="220"> | <img src="img_source/qr_sanner.png" width="220"> | <img src="img_source/settings.png" width="220"> |
 
-| Dark Mode | Onboarding | Credits |
+| Onboarding | Welcome | Credits |
 |:-:|:-:|:-:|
-| *Screenshot coming soon* | *Screenshot coming soon* | *Screenshot coming soon* |
+| <img src="img_source/onboarding.png" width="220"> | <img src="img_source/welome_img1.png" width="220"> | <img src="img_source/credits.png" width="220"> |
+
+| Welcome |
+|:-:|
+| <img src="img_source/welcome_img2.png" width="220"> |
 
 </div>
 
@@ -239,7 +235,7 @@ NSBM ATTEND
 
 - **Poojana Fernando** — [LinkedIn](https://www.linkedin.com/in/poojana-fernando/)
 - **Chamindu Rathnayake** — [LinkedIn](https://www.linkedin.com/in/chamidu-rathnayake-0b89702b8/)
-- **Vinuka Jayavijan** — [LinkedIn](https://www.linkedin.com/in/vinuka-jayavijan-b8b49833a/)
+- **Vinuka Jayavihan** — [LinkedIn](https://www.linkedin.com/in/vinuka-jayavijan-b8b49833a/)
 
 ---
 
